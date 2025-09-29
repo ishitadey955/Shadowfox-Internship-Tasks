@@ -54,13 +54,13 @@ This portfolio website serves as a central hub for:
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/wilsomwong2004/portfolio-website.git
+   https://github.com/ishitadey955/Ishita-Portfolio-Website.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd portfolio-website
+   cd Ishita-Portfolio-Website-main
    ```
 
 3. Install dependencies:
@@ -82,38 +82,7 @@ This portfolio website serves as a central hub for:
    ```
 
 ---
-
-## Usage
-
-To view my portfolio, navigate to the [live version](https://wilsomwong2004.github.io/Wil-s-Portfolio-Website/) of the website. Feel free to explore the sections, learn about my work, and reach out via the contact form.
-
----
-
-## Screenshots
-
-Here are some screenshots showcasing the design and functionality of the website:
-
-1. **Homepage**:
-   
-   ![Homepage Screenshot](src/assets/screenshot/homepage.jpeg)
-
-2. **About**:
-   
-  ![About Screenshot](src/assets/screenshot/about.jpeg)
-
-3. **Skill**:
-   
-   ![Skills Screenshot](src/assets/screenshot/skills.jpeg)
-
-4. **Project**:
-   
-   ![Project Screenshot](src/assets/screenshot/project.jpeg)
-
-5. **Contact**:
-    
-   ![Contact Screenshot](src/assets/screenshot/contact.jpeg)
-
----
+##Live Demo : https://ishita-portfolio-website.vercel.app/
 
 ## Contributing
 
@@ -133,4 +102,4 @@ This project is licensed under the [MIT License](LICENSE).
 
 ---
 
-Thank you for visiting my portfolio website! If you have any questions, feel free to [contact me](mailto:wilsomwong040727@gmail.com).
+
