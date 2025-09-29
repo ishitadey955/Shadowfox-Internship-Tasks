@@ -1,7 +1,5 @@
 # My Portfolio Website
 
-![Homepage Screenshot](src/assets/screenshot/homepage.jpeg)
-
 Welcome to my portfolio website! This project showcases my skills, experiences, and the work I've accomplished as a developer and designer.
 
 ---
