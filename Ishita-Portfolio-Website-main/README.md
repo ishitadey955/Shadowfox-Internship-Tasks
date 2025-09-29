@@ -10,8 +10,6 @@ Welcome to my portfolio website! This project showcases my skills, experiences, 
 * [Features](#features)
 * [Technologies Used](#technologies-used)
 * [Setup and Installation](#setup-and-installation)
-* [Usage](#usage)
-* [Screenshots](#screenshots)
 * [Contributing](#contributing)
 * [License](#license)
 
